@@ -465,3 +465,18 @@ img{
         display: block;
     }
 }
+.social-svg{
+    width: 22px;
+    height: 22px;
+    fill: #8494A1;
+}
+.socials__list{
+    display: flex;
+
+}
+.socials__item{
+    margin-right: 7px;
+}
+.socials__item:last-child{
+    margin-right: 0;
+}
